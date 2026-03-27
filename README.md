@@ -2,7 +2,7 @@
 
 This project implements logistic regression using NumPy and applies it to a real dataset.
 
-The goal was to understand how the model works internally instead of relying on library implementations.
+The goal was to understand how the model works internally.
 
 ## What’s included
 
