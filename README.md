@@ -1,4 +1,4 @@
-# Logistic Regression from Scratch
+# logistic-regression-numpy-implementation
 
 This project implements logistic regression using NumPy and applies it to a real dataset.
 
